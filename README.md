@@ -25,9 +25,9 @@
 ## Motion Study
 
 ### Description
-
+  Make an assembly that involves a servo and motion study that has gravity.
 ### Lessons Learned
-
+  I learned What a motion study is and how to use it. In motion Study I learned many of the aspects of a motion study I added gravity to the shelf and it fell onto the servo arm which got a motor study added to it to make it rotate and move the shelf back up. I also learned what shelf. Shelf in a sense hollows out a face of a part. 
 ### Images
 <img src="media1/MotionStudyImage.png" width="300">
 
