@@ -8,7 +8,7 @@
  specific dimensions. I learned some of the aspects that define a gears dimensions and equations that go along with them. I also
  learned how to make dimensions equations.
 ### Images
-<img src="media1/Gears.png" width="500">
+<img src="media1/Gears.png" width="300">
 
 ## Gearbox 
 
@@ -34,8 +34,8 @@
 ## Stress Analysis
 
 ### Description
-
+  Create a part then add features and change dimensions to make it sturdier.
 ### Lessons Learned
-
+  I learned what Stress Analysis was, how to use it, and how it helps. Stress analysis can show you what parts of a part which are weak and vulnerable whenever force is applied. I also learned Von Mises stress which is used to show the specific region that would undergo the greatest stress.
 ### Images
 <img src="media1/StressAnalysis.png" width="300">
