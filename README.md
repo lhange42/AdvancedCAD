@@ -8,7 +8,7 @@
  specific dimensions. I learned some of the aspects that define a gears dimensions and equations that go along with them. I also
  learned how to make dimensions equations.
 ### Images
-
+<img src="media1/Gears.png" width="300">
 
 ## Gearbox 
 
