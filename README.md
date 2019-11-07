@@ -20,7 +20,7 @@
  click on the axles of the gears then put in the appropriate amount of teeth and if you lined them up and set the direction in the 
  correct way you should have a working gear mate. I also hadd never you a revolved cut so I was able to become familar with those. 
 ### Images
-
+<img src="media1/GearBox.png" width="300">
 
 ## Motion Study
 
@@ -29,7 +29,7 @@
 ### Lessons Learned
 
 ### Images
-
+<img src="media1/MotionStudyImage.png" width="300">
 
 ## Stress Analysis
 
@@ -38,3 +38,4 @@
 ### Lessons Learned
 
 ### Images
+<img src="media1/StressAnalysis.png" width="300">
