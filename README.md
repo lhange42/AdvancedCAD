@@ -8,7 +8,7 @@
  specific dimensions. I learned some of the aspects that define a gears dimensions and equations that go along with them. I also
  learned how to make dimensions equations.
 ### Images
-<img src="media1/Gears.png" width="300">
+<img src="media1/Gears.png" width="500">
 
 ## Gearbox 
 
@@ -20,7 +20,7 @@
  click on the axles of the gears then put in the appropriate amount of teeth and if you lined them up and set the direction in the 
  correct way you should have a working gear mate. I also hadd never you a revolved cut so I was able to become familar with those. 
 ### Images
-<img src="media1/GearBox.png" width="300">
+<img src="media1/GearBox.png" width="500">
 
 ## Motion Study
 
